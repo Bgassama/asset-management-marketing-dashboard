@@ -1,4 +1,3 @@
-# asset-management-marketing-dashboard
 # Dashboard Asset Management & Marketing Intelligence
 ## Présentation du projet
 
