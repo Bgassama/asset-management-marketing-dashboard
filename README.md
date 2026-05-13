@@ -1,4 +1,5 @@
-# Dashboard Asset Management & Marketing Intelligence
+# Dashboard Asset Management
+
 ## Présentation du projet
 
 Ce projet est un dashboard interactif Power BI conçu pour analyser :
@@ -40,6 +41,9 @@ Vue de pilotage globale contenant :
 * Investissements par type de fonds
 * Insights métiers
 
+<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/38e6bc18-a6fe-454f-b60e-d064fa848a36" />
+
+
 ---
 
 ## Page 2 — Analyse des Fonds
@@ -53,6 +57,8 @@ Analyse détaillée du portefeuille incluant :
 * Analyse Performance vs Efficacité commerciale
 * Tableau détaillé du portefeuille
 * Comparaison investissements et performances
+
+<img width="1284" height="721" alt="image" src="https://github.com/user-attachments/assets/94abf52c-2c32-420a-b8b8-6bfe7018e6a0" />
 
 ---
 
@@ -69,6 +75,7 @@ Analyse marketing comprenant :
 * Performance des contenus marketing
 * Analyse CTR vs dépenses marketing
 
+<img width="1280" height="724" alt="image" src="https://github.com/user-attachments/assets/84a7ed9a-416c-49a6-a505-4da034fda878" />
 ---
 
 # Fonctionnalités principales
@@ -133,14 +140,6 @@ Contient :
 ### Date Table
 
 Table calendrier personnalisée pour l’analyse temporelle.
-
-# Captures d’écran
-
-Le repository contient des captures des différentes pages :
-
-* Accueil
-* Analyse des Fonds
-* Marketing & Acquisition
 
 # Licence
 
